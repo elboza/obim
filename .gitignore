@@ -1,0 +1,10 @@
+*.cmi
+*.cmo
+*.o
+*.cmx
+parser.ml
+parser.mli
+parser.output
+lexer.ml
+lexer.mli
+obim
